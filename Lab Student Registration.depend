@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1702745557 source:c:\users\admin\3d objects\button\lab student registration\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<fstream>
+	<cstdlib>
+
